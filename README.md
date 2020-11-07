@@ -11,4 +11,4 @@ Olá! Bem vindo ao seu livro de receitas :wave:
 - molho-de-alho
 - bolinho-de-chuva 🌧️
 - chocolate-quente-cremoso ♨️
-- Bolo de cenoura
+- Bolo de cenoura :carrot:
