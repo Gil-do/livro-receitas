@@ -4,7 +4,9 @@
 
 Olá! Bem vindo ao seu livro de receitas :wave:
 
-- Strogonoff de Frango :chicken:
-- Bolo Cuca de Banana :banana:
-- Tiramisu :coffee:
-
+- Strogonoff de Frango 🐔
+- Bolo Cuca de Banana 🍌
+- Tiramisu ☕
+- molho-de-alho
+- bolinho-de-chuva 🌧️
+- chocolate-quente-cremoso ♨️
