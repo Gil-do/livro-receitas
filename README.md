@@ -1,4 +1,4 @@
-# Livro de Receitas :man_cook::star: :star::star::star::star: :woman_cook:
+# Livro de Receitas :man_cook::star: :star::star::star::star::woman_cook:
 
 
 
