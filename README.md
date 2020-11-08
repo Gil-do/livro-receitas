@@ -12,3 +12,4 @@ Olá! Bem vindo ao seu livro de receitas :wave:
 - bolinho-de-chuva 🌧️
 - chocolate-quente-cremoso ♨️
 - Bolo de cenoura :carrot:
+- Pasta de leite em pó :cow:
